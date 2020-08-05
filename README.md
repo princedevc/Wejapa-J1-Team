@@ -5,7 +5,7 @@ TODO LIST CLI APPLICATION
 J1 (Javascript)
 Plese before you push your codes, to the repository make sure you pull from the repository so the changes you have made can be reflected on your local machin, for us to avoid merge conflicts use the the git command line.
 
-git pull origin develop
+git pull origin master
 
 Developers guide
 

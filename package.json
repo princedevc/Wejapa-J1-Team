@@ -1,0 +1,21 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "A Todo Application with NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Todo",
+    "App",
+    "Javascript"
+  ],
+  "author": "J1 Team",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^15.4.1"
+  }
+}
